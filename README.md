@@ -23,3 +23,8 @@
 | - | Mikrodenetleyici | (Çok sayıda ürün var) | - | RISCV mimarisi değerlendirilmeli. Oğuz Ergin hoca ve Yongatek firması takip edilmeli. |
 | - | Fpga | Xilinx, Altera | - | Yongatek firması takip edilmeli. |
 
+## İstenmeyen Ürünlere Neden Karşıyız?
+- Cari açığı artırdığı için.
+- Gazze zulmüne destek verdikleri için.
+- Müslümanlarla savaş halinde olanların ürünlerini satın almak caiz olmadığı için. Kaynak: https://www.youtube.com/watch?v=UWxDG5MSLvk
+- Dünyayı dönüştürmek, sömürmek, nufusu azaltmak ve insanları kontrol etmek amacıyla (sahte salgınlar, iklim oyunları, GDO, LGBT, yapay et, aşılar vs) uzun vadeli planlar yapan küresel firavunların yatırım şirketleri (Blackrock, Vanguard, State Street) ile ilişkili oldukları için. Kaynak: https://www.youtube.com/watch?v=-LqUveIjpLY
