@@ -13,6 +13,7 @@
 | * | Ofis Yazilimi | Microsoft Office | LibreOffice |  |
 | * | İlişkisel Veritabanı (SQL) | Microsoft SQL Server, Oracle, IBM DB2 | PostgreSQL, MySQL |  |
 | * | İlişkisel Olmayan Veritabanı (NoSQL) | (Çok sayıda ürün var) | Valkey, MongoDB, ScyllaDB |  |
+| + | Bulut (cloud) Altyapısı | Amazon Web Services, Microsoft Azure, Google Cloud, Alibaba Cloud, IBM Cloud, Oracle Cloud, Huawei Cloud vs. | OpenStack, OpenShift ve diğerleri: https://en.wikipedia.org/wiki/Cloud-computing_comparison |  |
 | * | Arama Motoru | Google, Bing, Yandex | DuckDuckGo |  |
 | * | İnternet Tarayıcı | Google Chrome, Microsoft Edge, Safari | Mozilla Firefox, DuckDuckGo |  |
 | + | Mesajlasma Uygulaması | WhatsApp | Signal | Sunucular ülkemiz içinde olmalı |
