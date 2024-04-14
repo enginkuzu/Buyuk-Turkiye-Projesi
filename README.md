@@ -11,7 +11,7 @@
 | * | Sunucu İşletim Sistemi | Microsoft Windows Server | Debian, Ubuntu, Fedora | Linux sunucuların çoğu ücretsizdir ve yönetimi daha kolaydır |
 | + | Mobil İşletim Sistemi | Google Android, Apple iOS | LineageOS, /e/, Ubuntu Touch, GrapheneOS, Plasma Mobile, Sailfish OS, postmarketOS, PureOS, Mobian | Muadillerin donanım destekleri çok kısıtlıdır |
 | * | Ofis Yazilimi | Microsoft Office | LibreOffice |  |
-| * | İlişkisel Veritabanı (SQL) | Microsoft SQL Server, Oracle, IBM DB2 | PostgreSQL, MySQL |  |
+| * | İlişkisel Veritabanı (SQL) | Microsoft SQL Server, Oracle, IBM DB2 | PostgreSQL, MySQL, Vitess |  |
 | * | İlişkisel Olmayan Veritabanı (NoSQL) | (Çok sayıda ürün var) | Valkey, MongoDB, ScyllaDB, TiKV |  |
 | + | Bulut (cloud) Altyapısı | Amazon Web Services, Microsoft Azure, Google Cloud, Alibaba Cloud, IBM Cloud, Oracle Cloud, Huawei Cloud vs. | OpenStack, OpenShift ve diğerleri: https://en.wikipedia.org/wiki/Cloud-computing_comparison |  |
 | * | Arama Motoru | Google, Bing, Yandex | DuckDuckGo |  |
