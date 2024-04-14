@@ -13,13 +13,13 @@
 | * | Ofis Yazilimi | Microsoft Office | LibreOffice |  |
 | * | İlişkisel Veritabanı (SQL) | Microsoft SQL Server, Oracle, IBM DB2 | PostgreSQL, MySQL, Vitess |  |
 | * | İlişkisel Olmayan Veritabanı (NoSQL) | (Çok sayıda ürün var) | Valkey, MongoDB, ScyllaDB, TiKV |  |
-| + | Bulut (cloud) Altyapısı | Amazon Web Services, Microsoft Azure, Google Cloud, Alibaba Cloud, IBM Cloud, Oracle Cloud, Huawei Cloud vs. | OpenStack, OpenShift ve diğerleri: https://en.wikipedia.org/wiki/Cloud-computing_comparison |  |
+| + | Bulut (cloud) Altyapısı | Amazon Web Services, Microsoft Azure, Google Cloud, Alibaba Cloud, IBM Cloud, Oracle Cloud, Huawei Cloud vs. | OpenStack, OpenShift ve [diğerleri](https://en.wikipedia.org/wiki/Cloud-computing_comparison) |  |
 | * | Arama Motoru | Google, Bing, Yandex | DuckDuckGo |  |
 | * | İnternet Tarayıcı | Google Chrome, Microsoft Edge, Safari | Mozilla Firefox, DuckDuckGo |  |
 | + | Mesajlasma Uygulaması | WhatsApp | Signal | Sunucular ülkemiz içinde olmalı |
 | - | Video Konferans Altyapisi | Zoom, Microsoft Teams, Google Meet |  |  |
 | * | Switch OS |  | SONiC |  |
-| * | Router OS |  | VyOS ve diğerleri: https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions |  |
+| * | Router OS |  | VyOS ve [diğerleri](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions) |  |
 | * | Elektronik Dizayn | Altium Designer | KiCad |  |
 | - | İşlemci | Intel, AMD | - | RISCV mimarisi değerlendirilmeli. Oğuz Ergin hoca ve Yongatek firması takip edilmeli. |
 | - | Mikrodenetleyici | (Çok sayıda ürün var) | - | RISCV mimarisi değerlendirilmeli. Oğuz Ergin hoca ve Yongatek firması takip edilmeli. |
