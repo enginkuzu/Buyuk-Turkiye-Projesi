@@ -19,7 +19,7 @@
 | + | Mesajlasma Uygulaması | WhatsApp | Signal | Sunucular ülkemiz içinde olmalı |
 | - | Video Konferans Altyapisi | Zoom, Microsoft Teams, Google Meet |  |  |
 | * | Switch OS |  | SONiC |  |
-| * | Router OS |  | VyOS |  |
+| * | Router OS |  | VyOS ve diğerleri: https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions |  |
 | * | Elektronik Dizayn | Altium Designer | KiCad |  |
 | - | İşlemci | Intel, AMD | - | RISCV mimarisi değerlendirilmeli. Oğuz Ergin hoca ve Yongatek firması takip edilmeli. |
 | - | Mikrodenetleyici | (Çok sayıda ürün var) | - | RISCV mimarisi değerlendirilmeli. Oğuz Ergin hoca ve Yongatek firması takip edilmeli. |
